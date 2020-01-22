@@ -3,7 +3,14 @@
   {"id":0,"file":"client
 dev tun
 proto udp
-...
+remote REDIP 1194       #1194 only if your vpn server's port is the default port     
+resolv-retry infinite
+nobind
+persist-key
+persist-tun
+verb 3
+comp-lzo
+ns-cert-type server
 d4ec4105a39c814bd980c9c0e0b8efb4
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
