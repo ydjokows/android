@@ -3,7 +3,7 @@
   {"id":0,"file":"client
 dev tun
 proto udp
-remote REDIP 1194       #1194 only if your vpn server's port is the default port     
+remote 51.68.191.75 1194       #1194 only if your vpn server's port is the default port     
 resolv-retry infinite
 nobind
 persist-key
