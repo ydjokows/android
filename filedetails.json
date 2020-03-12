@@ -100,8 +100,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},
    
 #-----END OpenVPN Static key V1-----
-#</tls-auth>"},
-{"id":1,"file":"client
+#</tls-auth>"
+{"id":1,"file":"
    # host/port of vpn server
 remote gw1.iad1.octanevpn.com 8888
 
