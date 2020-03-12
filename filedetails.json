@@ -100,7 +100,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>"},
    
 {"id":1,"file":"client 
-remote gw1.iad1.octanevpn.com 8888
+remote gw1.iad1.octanevpn.com 443
 
 # file containing username and password
 #auth-user-pass openvpn.userpass
