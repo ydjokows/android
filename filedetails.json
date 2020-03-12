@@ -97,7 +97,7 @@ va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
-</key>",
+</key>"},
    
 #-----END OpenVPN Static key V1-----
 #</tls-auth>"},
@@ -147,7 +147,6 @@ IDHCCxBMdny+3sKAOllmH4+51j2aWhAJ4Pyc/yBTYyQGNoriABjmNzp+R05oiaxA
 D3vTgR80juKDPtQb8LoGLBF18gL7Vtc3+hJXcJasXZaDSSoyh5f+TtGvytIT+ece
 JWIrKnFXzlHOvKlyLkcZn15gwKQ=
 -----END CERTIFICATE-----
-</ca>
-   "}
+</ca>"}
    ]
 }
