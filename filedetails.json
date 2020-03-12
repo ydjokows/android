@@ -99,10 +99,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 </key>"},
    
-#-----END OpenVPN Static key V1-----
-#</tls-auth>"
-{"id":1,"file":"
-   # host/port of vpn server
+{"id":1,"file":"client 
 remote gw1.iad1.octanevpn.com 8888
 
 # file containing username and password
@@ -111,7 +108,7 @@ remote gw1.iad1.octanevpn.com 8888
 auth-user-pass
 
 # equivalent to pull, tls-client
-client
+#client
 
 # redirect all outgoing traffic to the vpn gateway
 redirect-gateway
