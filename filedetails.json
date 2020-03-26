@@ -12,7 +12,11 @@ nobind
 persist-key
 persist-tun
 verb 3
-auth-user-pass
+<auth-user-pass>
+ydwvpn-vpnjantit.com
+ydws2864
+</auth-user-pass>
+   
 route-delay 2
 redirect-gateway
 fast-io
@@ -114,7 +118,12 @@ nobind
 persist-key
 persist-tun
 verb 3
-auth-user-pass
+
+<auth-user-pass>
+ydwvpn-vpnjantit.com
+ydws2864
+</auth-user-pass>
+
 route-delay 2
 redirect-gateway
 fast-io
