@@ -114,7 +114,7 @@ nobind
 persist-key
 persist-tun
 verb 3
-ncp-cipher disable
+ncp-disable
 
 # <auth-user-pass>
 
