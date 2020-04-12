@@ -3,7 +3,7 @@
   {"id":0,"file":"client 
 dev tun
 proto udp
-remote vpn129648839.opengw.net 1194
+remote vpn453327113.opengw.net 1194
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
@@ -73,7 +73,7 @@ Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
 </cert>
 
 <key>
------BEGIN PRIVATE KEY-----
+-----BEGIN RSA PRIVATE KEY-----
 MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
 wReNVa9fDRFLRBhcITOlv3FBcW3E8h1Us7RD4W8GmJe8zapJnLsD39OSMRCzZJnc
 zW4OCH1PZRZWKqDtjlNca9AF8a65jTmlDxCQCjntLIWk5OLLVkFt9/tScc1GDtci
@@ -99,7 +99,7 @@ KxaZQz7yqHupWlLGF68DPHxkZVVSagDnV/sztWX6SFsCqFVnxIXifXGC4cW5Nm9g
 va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
 wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
------END PRIVATE KEY-----
+-----END RSA PRIVATE KEY-----
    
 </key>"},
    
