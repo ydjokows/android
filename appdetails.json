@@ -13,8 +13,7 @@
     {"id":2, "app":"com.torrent.client"},
     {"id":3, "app":"com.tor.client"},
     {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+    {"id":5, "app":"com.facebook.client"}
   ],
   "free":[
     {"id":0, "file":2, "city":"Los Angeles","country":"United States","image":"unitedstates","ip":"161.202.144.236","active":"true","signal":"a"},
