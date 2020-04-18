@@ -4,8 +4,8 @@
     "version":"1.0.3",
 #    "title":"Do you like this VPN app? Check the source code!",
     "title":"Do you like to update to the new version ? ",
-    "description":"The App is available at github.com/ydjokowidodo/vpnclient and follow the developer on GitHub github.com/ydjokowidodo",
-    "size":"9 MB"
+    "description":"The App is available at Google Play Store",
+    "size":"4.5 MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -22,8 +22,7 @@
     {"id":2, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.148","active":"true","signal":"c"},
     {"id":3, "file":1, "city":"Bangkok","country":"United States","image":"thailand","ip":"219.100.37.148","active":"true","signal":"c"},
     {"id":4, "file":1, "city":"London","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"c"},
-    {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"c"},
-    {"id":6, "file":1, "city":"Sydney","country":"United States","image":"australia","ip":"205.185.119.100","active":"true","signal":"c"}
+    {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"c"}
     
   ]
 }
