@@ -115,8 +115,8 @@ nobind
 persist-key
 persist-tun
 verb 3
-key-direction 1
-ncp-disable
+# key-direction 1
+# ncp-disable
 
 # <auth-user-pass>
 
