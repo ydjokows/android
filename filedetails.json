@@ -12,6 +12,7 @@ persist-key
 persist-tun
 verb 3
 # <auth-user-pass>
+ncp-disable
 
 <ca>
 -----BEGIN CERTIFICATE-----
@@ -114,7 +115,7 @@ nobind
 persist-key
 persist-tun
 verb 3
-# ncp-disable
+ncp-disable
 
 # <auth-user-pass>
 
