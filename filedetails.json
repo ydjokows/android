@@ -230,7 +230,7 @@ route-delay 2
 redirect-gateway
 fast-io
 pull
-
+ncp-disable   
 
 <ca>
 -----BEGIN CERTIFICATE-----
