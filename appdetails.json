@@ -1,7 +1,7 @@
 {
   "ads":"true",
   "update":[{
-    "version":"1.0.6",
+    "version":"1.0.7",
 #    "title":"Do you like this VPN app? Check the source code!",
     "title":"Do you like to update to the new version ? ",
     "description":"The App is available at Google Play Store",
@@ -17,7 +17,7 @@
   ],
   "free":[
     {"id":0, "file":2, "city":"Los Angeles","country":"United States","image":"unitedstates","ip":"161.202.144.236","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"161.202.144.236","active":"true","signal":"b"},
+    {"id":1, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"161.202.144.236","active":"true","signal":"b"},
     {"id":2, "file":1, "city":"Tokyo","country":"Japan","image":"japan","ip":"219.100.37.148","active":"true","signal":"c"},
     {"id":3, "file":1, "city":"Bangkok","country":"United States","image":"thailand","ip":"219.100.37.148","active":"true","signal":"c"},
     {"id":4, "file":1, "city":"London","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"c"},
