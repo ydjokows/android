@@ -107,7 +107,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 {"id":1,"file":"client 
 dev tun
 proto udp
-remote public-vpn-188.opengw.net 1195
+remote public-vpn-238.opengw.net 1195
 cipher AES-128-CBC
 auth SHA1
 resolv-retry infinite
